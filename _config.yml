@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 寻
 subtitle: ''
 description: ''
 keywords:
@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/lifengdi/hexo_blog
+  repo: git@github.com:lifengdi/hexo_blog.git
   branch: main

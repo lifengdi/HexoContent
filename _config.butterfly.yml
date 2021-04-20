@@ -11,6 +11,7 @@ comments:
   card_post_count: false # Display comment count in Home Page
 
 highlight_theme: mac
+highlight_copy: true
   
 Home: / || fas fa-home
 Archives: /archives/ || fas fa-archive
